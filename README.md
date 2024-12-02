@@ -1,8 +1,8 @@
 Hi 👋 My name is Hicham
 =======================
 
-Data Scientist and ML Engineer
-------------------------------
+Data Scientist | Python, Machine Learning, MLOps | Helping organizations leverage data and AI to solve complex problems and drive innovation.
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 Graduated from Centrale Lille (a prestigious French engineering school), I combine expertise in data science, machine learning engineering, and a passion for innovation. Currently, I am a Data Scientist, where I harness the power of data to solve complex problems and create value.
 
