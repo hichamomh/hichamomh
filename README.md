@@ -7,6 +7,7 @@ Data Scientist | Python, Machine Learning, MLOps | Helping organizations leverag
 **Innovative Data Scientist with 1+ year of experience in Data Science, Machine Learning, and MLOps. Focused on leveraging data and AI to solve complex problems and drive business growth. Eager to bring expertise in data-driven decision-making and cutting-edge technologies to tackle new challenges.**
 
 • **Graduated from Centrale Lille** (a prestigious French engineering school) with a strong focus on data science, machine learning, and innovation.
+
 • 1+ year of experience in Data Science, including data analysis, machine learning, and statistical modeling, with expertise in Python and SQL.  
 • Proficient in machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.  
 • Strong experience in MLOps tools like Docker, Kubernetes, Airflow, MLflow, and AWS for deploying and managing AI solutions.  
