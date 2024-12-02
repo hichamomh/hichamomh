@@ -1,18 +1,17 @@
-Hi 👋 My name is Hicham
+Hi 👋 My name is Hicham  
 =======================
 
-Data Scientist | Python, Machine Learning, MLOps | Helping organizations leverage data and AI to solve complex problems and drive innovation.
+Data Scientist | Python 🐍, Machine Learning 🤖, MLOps 🔧 | Helping organizations leverage data and AI to solve complex problems and drive innovation.  
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-**Innovative Data Scientist with 1+ year of experience in Data Science, Machine Learning, and MLOps. Graduated from Centrale Lille (a prestigious French engineering school) with a strong focus on data science, machine learning, and innovation. Focused on leveraging data and AI to solve complex problems and drive business growth, eager to bring expertise in data-driven decision-making and cutting-edge technologies to tackle new challenges.**
+**Innovative Data Scientist with 1+ year of experience in Data Science, Machine Learning, and MLOps. Graduated from Centrale Lille 🎓 (a prestigious French engineering school) with a strong focus on data science, machine learning, and innovation. Focused on leveraging data and AI to solve complex problems and drive business growth 📊, eager to bring expertise in data-driven decision-making and cutting-edge technologies to tackle new challenges.**
 
-• 1+ year of experience in Data Science, including data analysis, machine learning, and statistical modeling, with expertise in Python and SQL.  
+• 1+ year of experience in Data Science, including data analysis 📉, machine learning 🤖, and statistical modeling, with expertise in Python 🐍 and SQL.  
 • Proficient in machine learning frameworks such as TensorFlow, PyTorch, and scikit-learn.  
-• Strong experience in MLOps tools like Docker, Kubernetes, Airflow, MLflow, and AWS for deploying and managing AI solutions.  
-• Expertise in NLP, deep learning, optimization, and AI-driven automation.  
-• Skilled in building data pipelines, cloud computing, and data visualization with tools like Dash, Streamlit, and Plotly.  
-• In-depth knowledge of Python, SQL, and cloud technologies (AWS Lambda, EC2).  
-• Worked with industry clients in sectors such as finance, e-commerce, and AI research, applying data science to solve real-world business problems.
+• Strong experience in MLOps tools like Docker 🐳, Kubernetes, Airflow 🌬, MLflow, and AWS ☁️ for deploying and managing AI solutions.  
+• Expertise in NLP 🗣, deep learning, optimization, and AI-driven automation.  
+• Skilled in building data pipelines, cloud computing ☁️, and data visualization 📊 with tools like Dash, Streamlit, and Plotly.  
+• In-depth knowledge of Python 🐍, SQL, and cloud technologies (AWS Lambda, EC2).    
 
 
 * 🌍  I'm based in Lille, France
