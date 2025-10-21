@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Hicham  
+# Hi, I'm Hicham  
 
 ### Data Scientist | MLOps 
 Engineer passionate about building intelligent systems that combine data, algorithms, and automation to solve real-world problems.  
 
 ---
 
-### 💡 About Me  
+### About Me  
 I'm a **Data Scientist and Engineer from Centrale Lille**, with hands-on experience in **data analysis, machine learning, and automation**.  
 My work focuses on turning complex data challenges into clear, actionable insights — by blending **statistics, programming, and system thinking**.  
 
