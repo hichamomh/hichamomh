@@ -13,7 +13,7 @@ Curious by nature, I love exploring how advanced models and clean infrastructure
 
 ---
 
-### 🧠 Currently Exploring  
+### Currently Exploring  
 - Building end-to-end ML systems (from data pipelines to deployment)  
 - Experimenting with AI and NLP for intelligent automation  
 - Studying advanced probability & mathematical modeling  
@@ -21,7 +21,7 @@ Curious by nature, I love exploring how advanced models and clean infrastructure
 
 ---
 
-### 🛠️ Tech Stack  
+### Tech Stack  
 **Languages:** Python, SQL, Bash  
 **Core Tools:** scikit-learn, PyTorch, FastAPI, Docker, Airflow, MLflow  
 **Data & Visualization:** Pandas, Plotly, Streamlit  
@@ -29,7 +29,7 @@ Curious by nature, I love exploring how advanced models and clean infrastructure
 
 ---
 
-### 🌍 Connect with Me   
+### Connect with Me   
 - LinkedIn: [linkedin.com/in/hicham-oumouhou](https://www.linkedin.com/in/hicham-oumouhou)  
 - Email: [hichamoumouhou@gmail.com](mailto:hichamoumouhou85@gmail.com)  
 
